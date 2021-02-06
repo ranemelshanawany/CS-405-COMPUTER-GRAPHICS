@@ -5,5 +5,16 @@
 
 ![normals](img/normalshading.png)
 
-![color](img/blinnphong.png)
+![blinnphong](img/blinnphong.png)
+
+![color](img/Picture6.png)
+
+![chasing](img/chasing_game.png)
+
+![fun](img/fun.png)
+
+
+
+
+
 
