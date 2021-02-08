@@ -1,5 +1,6 @@
 # CS-405-COMPUTER-GRAPHICS
 
+Press on QWERTY to change between scenes respectively
 
 ![wireframe](img/wireframe.png)
 
